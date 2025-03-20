@@ -458,7 +458,8 @@ void execute_instruction(Machine * machine) {
 			machine->stack.sp--;
 			machine->pc = machine->stack.mem[machine->stack.sp];
 			break;
-		}
+		} else if (p1 + p2 == 0) return; // stop executing empty space
+		
 		
 		unsafe_write_machine_error(machine, "Warning: ignored instruction 0x%.2x%2.2x", p1, p2);
 		break;
