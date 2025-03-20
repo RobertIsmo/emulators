@@ -22,7 +22,7 @@ to run a program.
 
 #### Controls
 
-Inputs `0-F` are their keyboard match. `Ctrl+m` or `Enter` to exit. `Ctrl+p` to pause/unpause. `Tab` to save the current emulation state in the `spn` directory. `Ctrl+L` to load the saved state.
+Inputs `0-F` are their keyboard match. `Ctrl+m` or `Enter` to exit. `Ctrl+p` to pause/unpause. `Tab` to save the current emulation state in the `spn` directory. `Ctrl+l` to load the saved state.
 
 #### Configuration
 
