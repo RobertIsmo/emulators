@@ -30,10 +30,17 @@ Inputs `0-F` are their keyboard match. `Ctrl+m` or `Enter` to exit. `Ctrl+p` to 
 
 *Main Configurations*:
 
+
 **PAUSE_ON_SAVE_MACHINE** *default 1*
+
 **UNPAUSE_ON_LOAD_MACHINE** *default 1*
+
 **SUPER_CHIP_SHIFT_CONFIGURATION** *default 1*
+
 **SUPER_CHIP_JUMP_CONFIGURATION** *default 1*
+
 **AMIGA_INDEX_OVERFLOW_CONFIGURATION** *default 1*
+
 **COSMAC_INDEX_INCREMENT_CONFIGURATION** *default 0*
+
 **COSMAC_VF_RESET_CONFIGURATION** *default 0*
