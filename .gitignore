@@ -1,3 +1,4 @@
 zig-out
 .zig-cache
 spn
+.DS_Store
